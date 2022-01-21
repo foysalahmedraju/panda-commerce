@@ -1,3 +1,20 @@
 .bg-panda-info{
 background-color: rgb(228, 229, 143);
 }
+.categories{
+    width: 100px;
+
+}
+.image-shoes{
+width: 350px;
+
+}
+.click-buton{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff136f 100%);
+    color: rgb(255, 255, 255);
+  background-color: #ff136f ;
+  border-radius:  8px;
+  padding:  9px 25px;
+  border: none;
+  
+}
